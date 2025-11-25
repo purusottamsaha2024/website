@@ -1,0 +1,38 @@
+import{c as o,r as c,j as e,S as h,B as p}from"./index-NtDLayiM.js";import{S as b}from"./shield-check-DAn1IZ9W.js";/**
+ * @license lucide-react v0.544.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const u=[["path",{d:"M12 7v14",key:"1akyts"}],["path",{d:"M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z",key:"ruj8y"}]],n=o("book-open",u);/**
+ * @license lucide-react v0.544.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const g=[["path",{d:"m18 16 4-4-4-4",key:"1inbqp"}],["path",{d:"m6 8-4 4 4 4",key:"15zrgr"}],["path",{d:"m14.5 4-5 16",key:"e7oirm"}]],m=o("code-xml",g);/**
+ * @license lucide-react v0.544.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const x=[["path",{d:"M21.54 15H17a2 2 0 0 0-2 2v4.54",key:"1djwo0"}],["path",{d:"M7 3.34V5a3 3 0 0 0 3 3a2 2 0 0 1 2 2c0 1.1.9 2 2 2a2 2 0 0 0 2-2c0-1.1.9-2 2-2h3.17",key:"1tzkfa"}],["path",{d:"M11 21.95V18a2 2 0 0 0-2-2a2 2 0 0 1-2-2v-1a2 2 0 0 0-2-2H2.05",key:"14pb5j"}],["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}]],w=o("earth",x);/**
+ * @license lucide-react v0.544.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const f=[["path",{d:"M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5",key:"1gvzjb"}],["path",{d:"M9 18h6",key:"x1upvd"}],["path",{d:"M10 22h4",key:"ceow96"}]],k=o("lightbulb",f);/**
+ * @license lucide-react v0.544.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const y=[["path",{d:"M13 21h8",key:"1jsn5i"}],["path",{d:"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z",key:"1a8usu"}]],v=o("pen-line",y);/**
+ * @license lucide-react v0.544.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const j=[["path",{d:"M16 7h6v6",key:"box55l"}],["path",{d:"m22 7-8.5 8.5-5-5L2 17",key:"1t1m79"}]],N=o("trending-up",j),r=[{title:"How AI is Transforming Business Operations",desc:"Explore the latest trends in AI adoption and how companies are leveraging intelligent automation for growth.",icon:e.jsx(N,{size:40,className:"mb-4 text-white drop-shadow-lg bg-blue-700 rounded-full p-2",strokeWidth:2.3})},{title:"Best Practices for Data Engineering in 2025",desc:"A practical guide to building robust, scalable data pipelines for modern analytics and AI workloads.",icon:e.jsx(n,{size:40,className:"mb-4 text-white drop-shadow-lg bg-purple-700 rounded-full p-2",strokeWidth:2.3})},{title:"The Future of Generative AI Applications",desc:"Discover how generative AI is enabling new creative and business possibilities across industries.",icon:e.jsx(k,{size:40,className:"mb-4 text-white drop-shadow-lg bg-blue-500 rounded-full p-2",strokeWidth:2.3})},{title:"Getting Started with MLOps: A Beginner’s Guide",desc:"Learn the essentials of deploying, monitoring, and scaling machine learning models in production.",icon:e.jsx(v,{size:40,className:"mb-4 text-white drop-shadow-lg bg-purple-500 rounded-full p-2",strokeWidth:2.3})},{title:"AI for Global Good",desc:"How AI is being used to solve global challenges and create a positive impact worldwide.",icon:e.jsx(w,{size:40,className:"mb-4 text-white drop-shadow-lg bg-blue-700 rounded-full p-2",strokeWidth:2.3})},{title:"Securing AI Systems",desc:"Best practices for keeping your AI and data pipelines secure in a connected world.",icon:e.jsx(b,{size:40,className:"mb-4 text-white drop-shadow-lg bg-purple-700 rounded-full p-2",strokeWidth:2.3})},{title:"The Rise of AI Coding Assistants",desc:"A look at how AI is changing the way developers write, test, and deploy code.",icon:e.jsx(m,{size:40,className:"mb-4 text-white drop-shadow-lg bg-blue-500 rounded-full p-2",strokeWidth:2.3})},{title:"Spark Creativity with Generative AI",desc:"Unlocking new creative workflows and business models with generative AI tools.",icon:e.jsx(h,{size:40,className:"mb-4 text-white drop-shadow-lg bg-purple-500 rounded-full p-2",strokeWidth:2.3})},{title:"AI and the Human Brain",desc:"Exploring the parallels between artificial intelligence and neuroscience.",icon:e.jsx(p,{size:40,className:"mb-4 text-white drop-shadow-lg bg-blue-700 rounded-full p-2",strokeWidth:2.3})}],I=()=>{const a=c.useRef(null),l=(t=1)=>{const s=a.current;if(!s)return;const i=s.querySelector(".blog-card");if(!i)return;const d=i.offsetWidth+32;s.scrollBy({left:t*d*1,behavior:"smooth"})};return e.jsx("section",{id:"blogs",className:"min-h-screen flex items-center justify-center bg-white/10 py-20 relative overflow-hidden",children:e.jsxs("div",{className:"max-w-6xl mx-auto px-4 w-full relative z-10 bg-transparent shadow-none border-none",children:[e.jsx("div",{className:"text-center",children:e.jsx("h2",{className:"inline-flex text-4xl font-bold mb-8 block text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-600",children:"Recent Blog & Articles"})}),e.jsx("div",{className:"flex justify-center mb-8",children:e.jsx(n,{size:49,className:"text-white drop-shadow-lg hero-gradient rounded-full p-2",strokeWidth:2.3})}),e.jsxs("div",{className:"relative flex items-center bg-transparent shadow-none border-none",children:[e.jsx("button",{"aria-label":"Scroll left",onClick:()=>l(-1),className:"absolute left-0 z-20 bg-white/80 hover:bg-blue-100 rounded-full p-2 shadow-lg transition disabled:opacity-40",style:{top:"50%",transform:"translateY(-50%)"},children:e.jsx("svg",{width:"28",height:"28",fill:"none",stroke:"currentColor",strokeWidth:"2.3",viewBox:"0 0 24 24",children:e.jsx("path",{d:"M15 18l-6-6 6-6"})})}),e.jsx("div",{ref:a,className:"flex gap-8 overflow-x-auto scrollbar-hide py-4 px-12 bg-transparent shadow-none border-none",style:{scrollBehavior:"smooth",minWidth:"100%",width:"100%",maxWidth:"100%"},children:r.map((t,s)=>e.jsxs("div",{className:"blog-card min-w-[320px] max-w-xs bg-gradient-to-br from-blue-50 to-purple-100 rounded-2xl shadow-2xl p-8 flex-shrink-0 flex flex-col items-center text-center transform transition duration-500 hover:scale-110 hover:z-10 hover:shadow-3xl animate-fadeInUp border border-white/10 cursor-pointer",style:{animation:`fadeInUp 0.8s ease ${s%r.length*100}ms both`},children:[t.icon,e.jsx("h3",{className:"text-xl font-semibold mb-3 drop-shadow-lg text-slate-800",children:t.title}),e.jsx("p",{className:"text-slate-600 drop-shadow-sm",children:t.desc})]},t.title+s))}),e.jsx("button",{"aria-label":"Scroll right",onClick:()=>l(1),className:"absolute right-0 z-20 bg-white/80 hover:bg-purple-100 rounded-full p-2 shadow-lg transition disabled:opacity-40",style:{top:"50%",transform:"translateY(-50%)"},children:e.jsx("svg",{width:"28",height:"28",fill:"none",stroke:"currentColor",strokeWidth:"2.3",viewBox:"0 0 24 24",children:e.jsx("path",{d:"M9 6l6 6-6 6"})})})]}),e.jsx("style",{children:`
+          @keyframes fadeInUp {
+            0% { opacity: 0; transform: translateY(40px); }
+            100% { opacity: 1; transform: translateY(0); }
+          }
+          .scrollbar-hide::-webkit-scrollbar { display: none; }
+          .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+        `})]})})};export{I as default};
