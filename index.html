@@ -6,9 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Evosphare Solutions</title>
     <script type="module" crossorigin src="/assets/index-NtDLayiM.js"></script>
+    <script defer src="/assets/address-update.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-BLp1YH95.css">
   </head>
   <body>
     <div id="root"></div>
+    <script>
+      (function(){
+        document.addEventListener('click', function(e){
+          const a = e.target.closest && e.target.closest('a');
+          if(!a) return;
+          const href = a.getAttribute('href');
+          if(href === '#blogs' || href === '#blog'){
+            e.preventDefault();
+            window.location.href = '/blog.html';
+          }
+        }, true);
+      })();
+    </script>
   </body>
 </html>
